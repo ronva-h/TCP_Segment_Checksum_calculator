@@ -1,0 +1,10 @@
+The checksum for clients's syn generated is = 9141
+The checksum for server's synack generated is = b35a
+The checksum for clients's ack generated is = b35b
+The checksum for clients's psh-ack generated is = 7b59
+The checksum for server's ack generated is = b353
+The checksum for clients's fin-ack generated is = b352
+The checksum for server's fin-ack generated is = b351
+The checksum for clients's ack generated is = b351
+Message sent to the server : TESTING
+
